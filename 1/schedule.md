@@ -1,7 +1,7 @@
 # Schedule
 
 This is a suggested schedule of topics including:
-* Video links and lecture notes
+* Video links and lec&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 * Activities
 * Exercises
 
@@ -28,7 +28,7 @@ This is a suggested schedule of topics including:
 
 ## Topics
 
-[1. Hello, World! YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1uBR2TKZByMNF3qbpRGZmK)
+[Hello, World! YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1uBR2TKZByMNF3qbpRGZmK)
 
 #### Introduction
 * **Watch** [1.0 Hello, World!](xxx)
@@ -51,7 +51,7 @@ This is a suggested schedule of topics including:
 
 ## Topics
 
-[2. Instructions YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd25s0av8bFNk7F2i-CgUBt0)
+[Instructions YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd25s0av8bFNk7F2i-CgUBt0)
 
 #### Motivation
 
@@ -59,17 +59,17 @@ This is a suggested schedule of topics including:
 
 #### Writing code
 
-* **Watch** [2.1. Working with code in Atom](https://www.youtube.com/watch?v=aaKkvYVYcKA) (18:16) (and **read** the [lecture notes](topics/software/working-with-code-in-atom.md))
-* **Watch** [2.2. Drawing shapes](https://www.youtube.com/watch?v=_opNnvV6ER4) (50:44) (and **read** the [lecture notes](topics/drawing/drawing-shapes.md))
-* **Watch** [2.3. Drawing colors](https://www.youtube.com/watch?v=NuhKC5NWTAw) (21:02) (and **read** the [lecture notes](topics/drawing/drawing-colors.md))
+* **Watch** [2.1. Working with code in Atom](https://www.youtube.com/watch?v=aaKkvYVYcKA) (18:16) (and **read** [Working with code in Atom](topics/software/working-with-code-in-atom.md))
+* **Watch** [2.2. Drawing shapes](https://www.youtube.com/watch?v=_opNnvV6ER4) (50:44) (and **read** [Drawing shapes](topics/drawing/drawing-shapes.md))
+* **Watch** [2.3. Drawing colors](https://www.youtube.com/watch?v=NuhKC5NWTAw) (21:02) (and **read** [Drawing colors](topics/drawing/drawing-colors.md))
 
 #### Style
 
-* **Watch** [2.4. Commenting your code](https://www.youtube.com/watch?v=zlStyOkUCPo) (13:36) (and **read** the [lecture notes](topics/style/commenting-your-code.md))
+* **Watch** [2.4. Commenting your code](https://www.youtube.com/watch?v=zlStyOkUCPo) (13:36) (and **read** [Commenting your code](topics/style/commenting-your-code.md))
 
 #### Debugging
 
-* **Watch** [2.5. The JavaScript console](https://www.youtube.com/watch?v=ZjpAZXxy5XI) (16:56) (and **read** the [lecture notes](topics/debugging/the-javascript-console.md))
+* **Watch** [2.5. The JavaScript console](https://www.youtube.com/watch?v=ZjpAZXxy5XI) (16:56) (and **read** [The JavaScript console](topics/debugging/the-javascript-console.md))
 
 ## Activity
 
@@ -88,28 +88,28 @@ This is a suggested schedule of topics including:
 
 ## Topics
 
-[3. Variables YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd3tmhwh0S_ao2hXJq-5p2o3)
+[Variables YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd3tmhwh0S_ao2hXJq-5p2o3)
 
 #### Variables
 
-* **Watch** [3.1. Introducing variables](https://www.youtube.com/watch?v=wGGHojSKNgY) (26:00) (and **read** the [lecture notes](topics/variables/introducing-variables.md))
-* **Watch** [3.2. Creating variables](https://www.youtube.com/watch?v=aMHaYb-YEdY) (25:00) (and **read** the [lecture notes](topics/variables/creating-variables.md))
-* **Watch** [3.3. Changing variables](https://www.youtube.com/watch?v=xq-ZVtS9xM8) (20:20) (and **read** the [lecture notes](topics/variables/changing-variables.md))
-* **Watch** [3.4. Introducing JavaScript Objects](https://www.youtube.com/watch?v=Lu2TqiVKdHY) (12:13) (and **read** the [lecture notes](topics/variables/introducing-javascript-objects.md))
-* **Watch** [3.5. Debugging variables](https://www.youtube.com/watch?v=Y9JHetLFrFE) (22:47) (and **read** the [lecture notes](topics/debugging/debugging-variables.md))
+* **Watch** [3.1. Introducing variables](https://www.youtube.com/watch?v=wGGHojSKNgY) (26:00) (and **read** [Introducing variables](topics/variables/introducing-variables.md))
+* **Watch** [3.2. Creating variables](https://www.youtube.com/watch?v=aMHaYb-YEdY) (25:00) (and **read** [Creating variables](topics/variables/creating-variables.md))
+* **Watch** [3.3. Changing variables](https://www.youtube.com/watch?v=xq-ZVtS9xM8) (20:20) (and **read** [Changing variables](topics/variables/changing-variables.md))
+* **Watch** [3.4. Introducing JavaScript Objects](https://www.youtube.com/watch?v=Lu2TqiVKdHY) (12:13) (and **read** [Introducing JavaScript Objects](topics/variables/introducing-javascript-objects.md))
+* **Watch** [3.5. Debugging variables](https://www.youtube.com/watch?v=Y9JHetLFrFE) (22:47) (and **read** [Debugging variables](topics/debugging/debugging-variables.md))
 
 #### A little math
 
-* **Watch** [3.6. Introducing random numbers](https://www.youtube.com/watch?v=RRJ__WoK7dc) (12:53) (and **read** the [lecture notes](topics/variables/introducing-random-numbers.md))
-* **Watch** [3.7. Map and constrain](https://www.youtube.com/watch?v=4TIEInzyNZw) (16:54) (and **read** the [lecture notes](topics/variables/map-and-constrain.md))
+* **Watch** [3.6. Introducing random numbers](https://www.youtube.com/watch?v=RRJ__WoK7dc) (12:53) (and **read** [Introducing random numbers](topics/variables/introducing-random-numbers.md))
+* **Watch** [3.7. Map and constrain](https://www.youtube.com/watch?v=4TIEInzyNZw) (16:54) (and **read** [Map and constrain](topics/variables/map-and-constrain.md))
 
-#### Activity
+## Activity
 
 * **Complete** [Activity: Moving Pictures](activities/moving-pictures.md) (**Watch** [3.8. Moving Pictures](https://www.youtube.com/watch?v=7OPzFA5t79A) (36:34) video to see Pippin doing it)
 
-#### Exercise
+## Exercise
 
-* [Exercise: I Like to Move It Move It](exercises/i-like-to-move-it-move-it.md) ()
+* [Exercise: I Like to Move It Move It](exercises/i-like-to-move-it-move-it.md)
 
 ---
 
@@ -125,14 +125,14 @@ This is a suggested schedule of topics including:
 
 [Conditionals YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1v-goj1QHf2bwm5_YjVaPU)
 
-* **Watch** [4.1. Conditionals](https://www.youtube.com/watch?v=lPk0M96c01E) (26:11) (and **read** the [lecture notes](topics/conditionals/conditionals.md))
-* **Watch** [4.2. More conditionals](https://www.youtube.com/watch?v=cOv4jpDmJNc) (20:16) (and **read** the [lecture notes](topics/conditionals/elses.md))
-* **Watch** [4.3. Booleans](https://www.youtube.com/watch?v=aeTo3xZ_9iQ) (12:06) (and **read** the [lecture notes](topics/conditionals/booleans.md))
-* **Watch** [4.4. Loops](https://www.youtube.com/watch?v=0ZcBwZfOlN0) (25:20) (and **read** the [lecture notes](topics/conditionals/loops.md))
-* **Watch** [4.5. Loops beyond counting](https://www.youtube.com/watch?v=W5V5ruYnnYg) (14:45) (and **read** the [lecture notes](topics/conditionals/loops-beyond-counting.md))
-* **Watch** [4.6. Mouse input](https://www.youtube.com/watch?v=M0mBxr_-Vrg) (12:00) (and **read** the [lecture notes](topics/input/mouse-input.md))
-* **Watch** [4.7. Movement](https://www.youtube.com/watch?v=vVQS65ZRH4I) (16:50) (and **read** the [lecture notes](topics/movement/movement.md))
-* **Watch** [4.8. Intermediate drawing](https://www.youtube.com/watch?v=_A-xhVfut3s) (22:53) (and **read** the [lecture notes](topics/drawing/intermediate-drawing.md))
+* **Watch** [4.1. Conditionals](https://www.youtube.com/watch?v=lPk0M96c01E) (26:11) (and **read** [Conditionals](topics/conditionals/conditionals.md))
+* **Watch** [4.2. More conditionals](https://www.youtube.com/watch?v=cOv4jpDmJNc) (20:16) (and **read** [More conditionals](topics/conditionals/elses.md))
+* **Watch** [4.3. Booleans](https://www.youtube.com/watch?v=aeTo3xZ_9iQ) (12:06) (and **read** [Booleans](topics/conditionals/booleans.md))
+* **Watch** [4.4. Loops](https://www.youtube.com/watch?v=0ZcBwZfOlN0) (25:20) (and **read** [Loops](topics/conditionals/loops.md))
+* **Watch** [4.5. Loops beyond counting](https://www.youtube.com/watch?v=W5V5ruYnnYg) (14:45) (and **read** [Loops beyond counting](topics/conditionals/loops-beyond-counting.md))
+* **Watch** [4.6. Mouse input](https://www.youtube.com/watch?v=M0mBxr_-Vrg) (12:00) (and **read** [Mouse input](topics/input/mouse-input.md))
+* **Watch** [4.7. Movement](https://www.youtube.com/watch?v=vVQS65ZRH4I) (16:50) (and **read** [Movement](topics/movement/movement.md))
+* **Watch** [4.8. Intermediate drawing](https://www.youtube.com/watch?v=_A-xhVfut3s) (22:53) (and **read** [Intermediate drawing](topics/drawing/intermediate-drawing.md))
 
 ## Activity
 
@@ -141,12 +141,12 @@ This is a suggested schedule of topics including:
 ## Extras
 
 * **Watch** [4.10. Images](https://www.youtube.com/watch?v=W3P6dzFgY9E) (12:11) (and **read** the [Image](https://p5js.org/reference/#group-Image) documentation in the p5 reference as needed)
-* **Watch** [4.11. Time](https://www.youtube.com/watch?v=-qNvJaJweMM) (12:32) (and **read** the [lecture notes](topics/philosophy/time.md))
-* **Watch** [4.12. Debugging conditionals](https://www.youtube.com/watch?v=-CY76q74VgI) (18:37) (and **read** the [lecture notes](topics/debugging/debugging-conditionals.md))
+* **Watch** [4.11. Time](https://www.youtube.com/watch?v=-qNvJaJweMM) (12:32) (and **read** [Time](topics/philosophy/time.md))
+* **Watch** [4.12. Debugging conditionals](https://www.youtube.com/watch?v=-CY76q74VgI) (18:37) (and **read** [Debugging conditionals](topics/debugging/debugging-conditionals.md))
 
 ## Exercise
 
-* [Exercise: Dodge-em](exercises/dodge-em.md) ()
+* [Exercise: Dodge-em](exercises/dodge-em.md)
 
 ---
 
@@ -163,13 +163,13 @@ This is a suggested schedule of topics including:
 
 [Functions YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd12V9SMFnrNl1MRBTw0Zi2U)
 
-* **Watch** [5.1. Functions](https://www.youtube.com/watch?v=PEO3PiX5kNY) (29:12) (and **read** the [lecture notes](topics/functions/functions.md))
-* **Watch** [5.2. Functions with parameters](https://www.youtube.com/watch?v=uCP-kTW-7t8) (24:45) (and **read** the [lecture notes](topics/functions/functions-with-parameters.md))
-* **Watch** [5.3. Functions with return values](https://www.youtube.com/watch?v=YNZkq--5Ug4) (21:01) (and **read** the [lecture notes](topics/functions/functions-with-return-values.md))
-* **Watch** [5.4. Text](https://www.youtube.com/watch?v=0oKyfIqhSZ0) (19:53) (and **read** the [lecture notes](topics/text/text.md), also **read** [notes on fonts](topics/text/fonts.md) if you wish)
-* **Watch** [5.5. States](https://www.youtube.com/watch?v=GAmz2aQoQns) (19:51) (and **read** the [lecture notes](topics/structure/states.md))
-* **Watch** [5.6. Keyboard input](https://www.youtube.com/watch?v=_Pou92Ir15Y) (22:24) (and **read** the [lecture notes](topics/input/keyboard-input.md))
-* **Watch** [5.7. Automated movement](https://www.youtube.com/watch?v=Sn7rBSowYlQ) (14:51) (and **read** the [lecture notes](topics/movement/automated-movement.md))
+* **Watch** [5.1. Functions](https://www.youtube.com/watch?v=PEO3PiX5kNY) (29:12) (and **read** [Functions](topics/functions/functions.md))
+* **Watch** [5.2. Functions with parameters](https://www.youtube.com/watch?v=uCP-kTW-7t8) (24:45) (and **read** [Functions with parameters](topics/functions/functions-with-parameters.md))
+* **Watch** [5.3. Functions with return values](https://www.youtube.com/watch?v=YNZkq--5Ug4) (21:01) (and **read** [Functions with return values](topics/functions/functions-with-return-values.md))
+* **Watch** [5.4. Text](https://www.youtube.com/watch?v=0oKyfIqhSZ0) (19:53) (and **read** [Text](topics/text/text.md), also **read** [notes on fonts](topics/text/fonts.md) if you wish)
+* **Watch** [5.5. States](https://www.youtube.com/watch?v=GAmz2aQoQns) (19:51) (and **read** [States](topics/structure/states.md))
+* **Watch** [5.6. Keyboard input](https://www.youtube.com/watch?v=_Pou92Ir15Y) (22:24) (and **read** [Keyboard input](topics/input/keyboard-input.md))
+* **Watch** [5.7. Automated movement](https://www.youtube.com/watch?v=Sn7rBSowYlQ) (14:51) (and **read** [Automated movement](topics/movement/automated-movement.md))
 
 ### Activity
 
@@ -187,8 +187,8 @@ This is a suggested schedule of topics including:
 
 [Sound and strict YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1CiZxxlcQTGcEuXX_G7B6h)
 
-* **Watch** [6.1. Basic sound](https://www.youtube.com/watch?v=tK-K27ynFzs) (14:55) (and **read** the [lecture notes](topics/sound/basic-sound.md))
-* **Watch** [6.2. `"use strict;"`](https://www.youtube.com/watch?v=P2wpX-bKO3U) (6:47) (and **read** the [lecture notes](topics/debugging/use-strict.md))
+* **Watch** [6.1. Basic sound](https://www.youtube.com/watch?v=tK-K27ynFzs) (14:55) (and **read** [Basic sound](topics/sound/basic-sound.md))
+* **Watch** [6.2. `"use strict";`](https://www.youtube.com/watch?v=P2wpX-bKO3U) (6:47) (and **read** [`"use strict";`](topics/debugging/use-strict.md))
 
 ---
 
@@ -199,7 +199,6 @@ This is a suggested schedule of topics including:
 * Understanding how to use for-loops and arrays
 * Storing objects in arrays
 * Improving our debugging
-* Starting project 2
 
 ## Topics
 
