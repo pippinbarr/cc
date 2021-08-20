@@ -1,7 +1,7 @@
 # Schedule
 
 This is a suggested schedule of topics including:
-* Video links and lec&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+* Video links and lectures
 * Activities
 * Exercises
 
