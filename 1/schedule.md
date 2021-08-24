@@ -144,10 +144,6 @@ This is a suggested schedule of topics including:
 * **Watch** [4.11. Time](https://www.youtube.com/watch?v=-qNvJaJweMM) (12:32) (and **read** [Time](topics/philosophy/time.md))
 * **Watch** [4.12. Debugging conditionals](https://www.youtube.com/watch?v=-CY76q74VgI) (18:37) (and **read** [Debugging conditionals](topics/debugging/debugging-conditionals.md))
 
-## Exercise
-
-* [Exercise: Dodge-em](exercises/dodge-em.md)
-
 ---
 
 # Functions
@@ -174,10 +170,6 @@ This is a suggested schedule of topics including:
 ### Activity
 
 * **Complete** [Activity: Looking for love](activities/looking-for-love.md) (**Watch** [5.8. Looking for love](https://www.youtube.com/watch?v=NdIbn7JSaME) (44:15) video to see Pippin doing it)
-
-### Exercise
-
-* **Start** [Exercise: Love, Actually](exercises/love-actually.md)
 
 ---
 
@@ -216,10 +208,6 @@ This is a suggested schedule of topics including:
 
 * **Complete** the [Debugging activity](topics/debugging/debugging-activity.md) (**Follow along** with [7.4. Debugging activity](https://www.youtube.com/watch?v=po12bEQG2S4) (50:16) if you want!)
 
-## Exercise
-
-* [Exercise: The Age of Aquariums](exercises/the-age-of-aquariums.md)
-
 ---
 
 # Object-Oriented Programming
@@ -241,10 +229,6 @@ This is a suggested schedule of topics including:
 ## Activity
 
 * **Complete** the [Object-Oriented Programming activity](topics/object-oriented-programming/object-oriented-programming-activity.md) (**Follow along** with [7.5. Object-Oriented Programming activity](https://www.youtube.com/watch?v=EHAsnIxQU4g) (58:43) if you want!)
-
-## Exercise
-
-* [Exercise: Juggle Garden](exercises/juggle-garden.md)
 
 ---
 
@@ -281,10 +265,6 @@ This is a suggested schedule of topics including:
 
 * **Complete** [Inheritance activity](topics/object-oriented-programming/inheritance-activity.md) (**Follow along** with [9.5. Inheritance activity](https://www.youtube.com/watch?v=RsMhk8Zq4ic) (54:08) if you want!)
 
-## Exercise
-
-* No exercise
-
 ---
 
 # p5.sound
@@ -308,8 +288,5 @@ This is a suggested schedule of topics including:
 
 * **Complete** [Activity: Sound activity](topics/sound/sound-activity.md) (**Follow along** with [10.5. Sound activity](https://www.youtube.com/watch?v=Z9iLUfmB3fY) (42:13) if you want!)
 
-## Exercise
-
-* [Exercise: Make Some Noise](exercises/make-some-noise.md)
 
 ---
