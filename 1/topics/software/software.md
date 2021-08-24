@@ -11,7 +11,7 @@ We use a __web browser__ to run our programs in this course. Any web browser is 
 
 ## Atom
 
-We use __Atom__ as our text editor. It's a nice, free, open-source text editor. Even if you prefer some other text editor, you should use Atom in CART 253.
+We use __Atom__ as our text editor. It's a nice, free, open-source text editor. Even if you prefer some other text editor, you should probably use Atom.
 
 1. Go to https://atom.io/
 1. Download Atom to your computer

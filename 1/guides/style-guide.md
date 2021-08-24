@@ -6,7 +6,7 @@
 4. [Variables](#variables)
 5. [Functions](#functions)
 6. [Version control](#version-control)
-7. [Attribution](#attribution)]
+7. [Attribution](#attribution)
 
 ---
 

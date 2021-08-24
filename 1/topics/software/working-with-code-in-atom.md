@@ -14,7 +14,7 @@
 
 ## Running Atom
 
-__Launch Atom__ using whatever approach you prefer, such as:
+**Launch Atom** using whatever approach you prefer, such as:
 
 - Find it in your Applications folder or in Program Files
 - Click on it in the Dock or Task Bar at the bottom of your screen
@@ -22,11 +22,11 @@ __Launch Atom__ using whatever approach you prefer, such as:
 
 You may see some default windows the very first time you open Atom. None of them are useful to us in our work, so tell them not to appear by default if you want, and close them until you just have the `untitled` file open.
 
-Type some words into the `untitled` window/tab. That's called __text editing__!
+Type some words into the `untitled` window/tab. That's called **text editing**!
 
-__Programming is just fancy text editing with special words__.
+**Programming is just fancy text editing with special words**.
 
-__Note__ that if last time you used Atom you already had something open, it will probably open that project/file again. Close it if you don't want to work on that project/file.
+**Note** that if last time you used Atom you already had something open, it will probably open that project/file again. Close it if you don't want to work on that project/file.
 
 ---
 
@@ -34,7 +34,7 @@ __Note__ that if last time you used Atom you already had something open, it will
 
 When we write JavaScript in this class we will use a basic set of files and folders we will use every time to start a new project (any time we're writing new code). So follow the following steps to get the template project:
 
-1. Download the template project from the course website: https://pippinbarr.github.io/cart253-2020/templates/template-p5-project.zip
+1. Download the [template project](../../templates/template-p5-project.zip)
 2. Unzip it on your desktop or wherever you like (often it's enough to double-click the `.zip` file to unzip it)
 3. You should now have a folder called `template-p5-project`
 
@@ -44,16 +44,16 @@ If you open the folder, you can see it has a bunch of files and folders in it. W
 
 ## Open the template project in Atom
 
-When writing our code it is very, very important that we always open the __entire project__ we are working on in Atom. That is, we should always open the __main folder__ that contains all the HTML, CSS, JavaScript, and other files that make up the project.
+When writing our code it is very, very important that we always open the **entire project** we are working on in Atom. That is, we should always open the **main folder** that contains all the HTML, CSS, JavaScript, and other files that make up the project.
 
 In this case, that is the `template-p5-project` folder, so we should open that. There are a couple of ways.
 
-- Drag the `template-p5-project` onto the __Atom__ icon on your Dock or Task Bar
-- In __Atom__ go to `File > Open...` and select the `template-p5-project` folder, then choose "Open"
+- Drag the `template-p5-project` onto the **Atom** icon on your Dock or Task Bar
+- In **Atom** go to `File > Open...` and select the `template-p5-project` folder, then choose "Open"
 
 The key is that we want that specific folder open in its own window in Atom. You'll be able to tell if you did it right because the lefthand sidebar will show the folder's name at the top, and then underneath will be all the files inside the folder.
 
-__Note__: you __can__ also open one of the files in the main folder like `index.html`, __but__ this may lead to it opening in the wrong window or something else confusing. __Always__ use the method above to open your project when you start work.
+**Note**: you **can** also open one of the files in the main folder like `index.html`, **but** this may lead to it opening in the wrong window or something else confusing. **Always** use the method above to open your project when you start work.
 
 ---
 
@@ -63,7 +63,7 @@ __Note__: you __can__ also open one of the files in the main folder like `index.
 
 - This is roughly what you should see when you open the template project
 - In this case we have the `index.html` file selected in the project on the left
-- Most importantly, you can see the contents of the file you are editing in the main __editing window__ (the biggest area)
+- Most importantly, you can see the contents of the file you are editing in the main **editing window** (the biggest area)
 - And you can see the file structure of the project in the left pane (the smaller, skinnier area with `index.html` selected)
 
 To view any specific file, just select it in the lefthand sidebar.
@@ -103,9 +103,9 @@ template-p5-project/
 ## `p5.min.js`
 
 - In the `js/` folder is a folder called `libraries/` and in that folder is `p5.min.js`
-- This file contains the __code for the p5 library__
+- This file contains the **code for the p5 library**
 - You can take a look at it, but it probably looks like nonsense
-- Part of that is because of the `min` part of the name, it means __min__-ified which means it has been compressed and is not so readable anymore
+- Part of that is because of the `min` part of the name, it means **min**-ified which means it has been compressed and is not so readable anymore
 - Notice that in `index.html`
   - there is a `<script>` tag that includes `p5.min.js` so that we can use it in our code in `script.js`
   - there is a `<script>` tag that includes `script.js` so that we can write our code in there and have it do things on the web page
@@ -153,13 +153,13 @@ Instead, we'll use the "atom-live-server" you should have installed in Atom alre
 
 Go to `Packages > atom-live-server > Start server` and see what happens...
 
-__Note:__ It would be a great idea to learn the shortcut for this "Start server" command as it will speed things up a little. The shortcut is listed next to the menu item.
+**Note:** It would be a great idea to learn the shortcut for this "Start server" command as it will speed things up a little. The shortcut is listed next to the menu item.
 
 ---
 
 ## View the results in Chrome
 
-atom-live-server will have run your browser by default and it should be displaying the results of our tiny program. If your default browser __is not__ Chrome or FireFox, please change that for this course. It needs to be one of those two browsers for reasons we will cover later.
+atom-live-server will have run your browser by default and it should be displaying the results of our tiny program. If your default browser **is not** Chrome or FireFox, please change that for this course. It needs to be one of those two browsers for reasons we will cover later.
 
 You should see something like the following:
 
@@ -169,7 +169,7 @@ That is, a red square in the top left corner of the window. That `background(255
 
 ---
 
-## atom-live-server is _live_
+## atom-live-server is **live**
 
 The beauty of atom-live-server is not just that it loads our project whenever we make changes to our code (and save them), so we can easily check what the results of our work are.
 
