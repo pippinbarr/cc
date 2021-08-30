@@ -30,9 +30,6 @@ This is a suggested schedule of topics including:
 
 [Hello, World! YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1uBR2TKZByMNF3qbpRGZmK)
 
-#### Introduction
-* **Watch** [1.0 Hello, World!](xxx)
-
 #### Course software
 * **Follow** the [Course Software](topics/software/software.md) text tutorial
 * **Watch** [1.1 Creating a repository](https://www.youtube.com/watch?v=RYlNGzVuVwo) (16:44) and/or **follow** the [text tutorial](topics/software/github-repository.md)
