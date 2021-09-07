@@ -87,7 +87,7 @@ A small example of requiring the user to using typing in a specific word as a fo
 
 ## Final Projects from 2019
 
-Here are four **example final projects** from the 2019 edition of CART253 for you to look at and be inspired by!
+Here are **example final projects** from the 2019 edition of CART253 for you to look at and be inspired by!
 
 - [Frogs in Space](https://pippinbarr.github.io/cart253-2020/examples/student-work/frogs-in-space/) ([code](https://github.com/pippinbarr/cart253-2020/tree/master/examples/student-work/frogs-in-space/)) by Martin Hanses
 - [Maranta Leuconeura](https://pippinbarr.github.io/cart253-2020/examples/student-work/maranta-leuconeura/) ([code](https://github.com/pippinbarr/cart253-2020/tree/master/examples/student-work/maranta-leuconeura/)) by Anne Boutet
@@ -106,6 +106,8 @@ Here are **example midterm projects** from the 2020 edition of CART253 for you t
 
 
 ## Final Projects from 2020
+
+Here are **example final projects** from the 2020 edition of CART253 for you to look at and be inspired by!
 
 - [Horse.com](https://juniorvigneault.github.io/cart253/projects/project2/official/) ([code](https://github.com/juniorvigneault/cart253/tree/master/projects/project2/official)) by Junior Vigneault
 * [Hungry Fishies](https://sharon-ku.github.io/cart253/projects/project2/) ([code](https://github.com/sharon-ku/cart253/tree/master/projects/project2)) by Sharon Ku
