@@ -1,8 +1,11 @@
 # Resources
 
-The internet is full of amazing resources for learning how to program, and specifically for learning how to program in JavaScript and how to use the many available libraries. This is not a complete list, just an indication of a few good options.
 
 **If you find a resource you think should be shared with the class, please notify the instructor (via email, an Issue on this repository, or even a Pull request) to have it added.**
+
+## Template(s)
+
+* Template p5 project | [.zip file](templates/template-p5-project.zip)| 
 
 ## p5.js
 
