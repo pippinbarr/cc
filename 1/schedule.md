@@ -26,6 +26,10 @@ This is a suggested schedule of topics including:
 * Understand the overall course
 * Install the course software and get used to GitHub
 
+## Template (for experimenting and the activity)
+
+* [Template p5 project](templates/template-p5-project.zip)
+
 ## Topics
 
 [Hello, World! YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1uBR2TKZByMNF3qbpRGZmK)
@@ -45,6 +49,10 @@ This is a suggested schedule of topics including:
 * Drawing shapes on the canvas using the coordinate system
 * Playing with colors
 * Using Git and GitHub with code
+
+## Template (for experimenting and the activity)
+
+* [Template p5 project](templates/template-p5-project.zip)
 
 ## Topics
 
@@ -83,6 +91,10 @@ This is a suggested schedule of topics including:
 * Using variables to make your program change over time
 * Fun with random numbers and mapping numbers
 
+## Template (for experimenting and the activity)
+
+* [Template p5 project](templates/template-p5-project.zip)
+
 ## Topics
 
 [Variables YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd3tmhwh0S_ao2hXJq-5p2o3)
@@ -118,6 +130,10 @@ This is a suggested schedule of topics including:
 * Including mouse and keyboard input in a program
 * Controlling repetition with loops
 
+## Template (for experimenting and the activity)
+
+* [Template p5 project](templates/template-p5-project.zip)
+
 ## Topics
 
 [Conditionals YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1v-goj1QHf2bwm5_YjVaPU)
@@ -152,6 +168,10 @@ This is a suggested schedule of topics including:
 * Understanding the value of modularity and reuse
 * Using "states" to organize your program
 
+## Template (for experimenting and the activity)
+
+* [Template p5 project](templates/template-p5-project.zip)
+
 ## Topics
 
 [Functions YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd12V9SMFnrNl1MRBTw0Zi2U)
@@ -172,6 +192,10 @@ This is a suggested schedule of topics including:
 
 # Sound and strict
 
+## Template (for experimenting and the activity)
+
+* [Template p5 project](templates/template-p5-project.zip)
+
 ## Topics
 
 [Sound and strict YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1CiZxxlcQTGcEuXX_G7B6h)
@@ -188,6 +212,10 @@ This is a suggested schedule of topics including:
 * Understanding how to use for-loops and arrays
 * Storing objects in arrays
 * Improving our debugging
+
+## Template (for experimenting and the activity)
+
+* [Template p5 project](templates/template-p5-project.zip)
 
 ## Topics
 
@@ -213,6 +241,10 @@ This is a suggested schedule of topics including:
 
 * Writing classes to organize your code into more complex objects
 
+## Template (for experimenting and the activity)
+
+* [Template p5 project](templates/template-p5-project.zip)
+
 ## Topics
 
 [Object-Oriented Programming YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1DiCxy52Ep2dgqp1sPjUdl)
@@ -235,6 +267,10 @@ This is a suggested schedule of topics including:
 
 * Understanding inheritance as a way to make more complex class structures
 * Taking advantage of polymorphism
+
+## Template (for experimenting and the activity)
+
+* [Template p5 project](templates/template-p5-project.zip)
 
 ## Topics
 
@@ -271,6 +307,10 @@ This is a suggested schedule of topics including:
 * Getting to know a new library
 * Getting comfortable reading documentation
 * Experimenting with library features
+
+## Template (for experimenting and the activity)
+
+* [Template p5 project](templates/template-p5-project.zip)
 
 ## Topics
 
