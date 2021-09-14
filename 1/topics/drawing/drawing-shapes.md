@@ -17,11 +17,11 @@
 
 While learning to program it's a __very__ good idea to follow along and try things out as you learn them. For that reason, we should start a new JavaScript project to play around in for each week's topic. A "sandbox". This process should be applied every week.
 
-1. __Download and unzip__ the template project again if you need to (![template-p5-project.zip](https://pippinbarr.github.io/cart253-2020/templates/template-p5-project.zip))
+1. __Download and unzip__ the template project again if you need to
 2. __Rename__ the main folder from `template-p5-project` to something like `drawing-experiments`
 3. __Open__ the `drawing-experiments` folder in Atom so you're ready to work on it as a project
 
-__Note__: if you want to, you could move your `drawing-experiments` folder into your `cart253` repository inside a `sandboxes` folder and then commit and push your changes as you work. This way you could keep track of your progress as you try things out. This isn't required for these "sandbox" projects, but could be good practice.
+__Note__: if you want to, you could move your `drawing-experiments` folder into your `cc1` repository inside a `sandboxes` folder and then commit and push your changes as you work. This way you could keep track of your progress as you try things out. This isn't required for these "sandbox" projects, but could be good practice.
 
 ---
 
@@ -610,7 +610,7 @@ function setup() {
   rect(250,250,100,100);
   rect(250,250,90,90);
   rect(250,250,80,80);
-  
+
   rectMode(CORNER);
   rect(0,0,200,200);
   rect(300,300,200,200);

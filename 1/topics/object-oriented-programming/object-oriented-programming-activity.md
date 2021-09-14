@@ -20,9 +20,9 @@ _The user will control a rectangular "paddle" at the bottom of the screen, movin
 
 First we will want to start a fresh project using the p5 template project for this activity.
 
-1. Download [template-p5-project.zip](https://pippinbarr.github.io/cart253-2020/templates/template-p5-project.zip) and unzip it
+1. Download [template-p5-project.zip](../../templates/template-p5-project.zip) and unzip it
 2. Rename the folder from `template-p5-project` to `object-oriented-programming-activity`
-3. Move the folder into your `cart253` repository folder inside the `activities` folder
+3. Move the folder into your `cc1` repository folder inside the `activities` folder
 4. In GitHub Desktop, commit with a message like "Activity: Started the Object-Oriented Programming activity" and push
 
 Remember that it's a nice idea to commit (and push) throughout the activity as you get different things done. This will be part of the evaluation for exercises and projects.
