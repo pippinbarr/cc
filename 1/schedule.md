@@ -3,7 +3,8 @@
 This is a suggested schedule of topics including:
 * Video links and lectures
 * Activities
-* Exercises
+
+---
 
 ## Contents
 
@@ -115,10 +116,6 @@ This is a suggested schedule of topics including:
 ## Activity
 
 * **Complete** [Activity: Moving Pictures](activities/moving-pictures.md) (**Watch** [3.8. Moving Pictures](https://www.youtube.com/watch?v=7OPzFA5t79A) (36:34) video to see Pippin doing it)
-
-## Exercise
-
-* [Exercise: I Like to Move It Move It](exercises/i-like-to-move-it-move-it.md)
 
 ---
 
