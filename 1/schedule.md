@@ -81,7 +81,7 @@ This is a suggested schedule of topics including:
 
 * **Complete** [Activity: Draw an Alien](activities/draw-an-alien.md)
   * **Watch** [2.6. Draw an alien](https://www.youtube.com/watch?v=gAiJp3pbk_U) (41:13) video to see Pippin doing it
-  * **Check** out [Pippin's Draw an alien code](https://www.github.com/pippinbarr/cc/1/activities/draw-an-alien) if you like
+  * **Check** out [Pippin's Draw an alien code](https://github.com/pippinbarr/cc/tree/main/1/activities/draw-an-alien) if you like
 
 ---
 
@@ -117,7 +117,9 @@ This is a suggested schedule of topics including:
 
 ## Activity
 
-* **Complete** [Activity: Moving Pictures](activities/moving-pictures.md) (**Watch** [3.8. Moving Pictures](https://www.youtube.com/watch?v=7OPzFA5t79A) (36:34) video to see Pippin doing it)
+* **Complete** [Activity: Moving Pictures](activities/moving-pictures.md)
+  * **Watch** [3.8. Moving Pictures](https://www.youtube.com/watch?v=7OPzFA5t79A) (36:34) video to see Pippin doing it
+  * **Check** out [Pippin's Moving pictures code](https://github.com/pippinbarr/cc/tree/main/1/activities/moving-pictures) if you like
 
 ---
 
@@ -148,7 +150,9 @@ This is a suggested schedule of topics including:
 
 ## Activity
 
-* **Complete** [Activity: Dodging COVID-19](activities/dodging-covid19.md) (**Watch** [4.9. Dodging COVID-19](https://www.youtube.com/watch?v=wtjUt5jX3WA) (37:22) video to see Pippin doing it)
+* **Complete** [Activity: Dodging COVID-19](activities/dodging-covid19.md)
+  * **Watch** [4.9. Dodging COVID-19](https://www.youtube.com/watch?v=wtjUt5jX3WA) (37:22) video to see Pippin doing it
+  * **Check** out [Pippin's Dodging COVID-19 code](https://github.com/pippinbarr/cc/tree/main/1/activities/draw-an-alien) if you like
 
 ## Extras
 
@@ -185,7 +189,9 @@ This is a suggested schedule of topics including:
 
 ### Activity
 
-* **Complete** [Activity: Looking for love](activities/looking-for-love.md) (**Watch** [5.8. Looking for love](https://www.youtube.com/watch?v=NdIbn7JSaME) (44:15) video to see Pippin doing it)
+* **Complete** [Activity: Looking for love](activities/looking-for-love.md)
+  * **Watch** [5.8. Looking for love](https://www.youtube.com/watch?v=NdIbn7JSaME) (44:15) video to see Pippin doing it
+  * * **Check** out [Pippin's Looking for love code](https://github.com/pippinbarr/cc/tree/main/1/activities/looking-for-love) if you like
 
 ---
 
@@ -230,7 +236,8 @@ This is a suggested schedule of topics including:
 
 ## Activity
 
-* **Complete** the [Debugging activity](topics/debugging/debugging-activity.md) (**Follow along** with [7.4. Debugging activity](https://www.youtube.com/watch?v=po12bEQG2S4) (50:16) if you want!)
+* **Complete** the [Debugging activity](topics/debugging/debugging-activity.md)
+  * **Follow along** with [7.4. Debugging activity](https://www.youtube.com/watch?v=po12bEQG2S4) (50:16) if you want!
 
 ---
 
@@ -256,7 +263,9 @@ This is a suggested schedule of topics including:
 
 ## Activity
 
-* **Complete** the [Object-Oriented Programming activity](topics/object-oriented-programming/object-oriented-programming-activity.md) (**Follow along** with [7.5. Object-Oriented Programming activity](https://www.youtube.com/watch?v=EHAsnIxQU4g) (58:43) if you want!)
+* **Complete** the [Object-Oriented Programming activity](topics/object-oriented-programming/object-oriented-programming-activity.md)
+  * **Follow along** with [7.5. Object-Oriented Programming activity](https://www.youtube.com/watch?v=EHAsnIxQU4g) (58:43) if you want!
+  * **Check** out [Pippin's Object-Oriented Programming activity code](https://github.com/pippinbarr/cc/tree/main/1/activities/juggling-simulation) if you like
 
 ---
 
@@ -295,7 +304,9 @@ This is a suggested schedule of topics including:
 
 ## Activity
 
-* **Complete** [Inheritance activity](topics/object-oriented-programming/inheritance-activity.md) (**Follow along** with [9.5. Inheritance activity](https://www.youtube.com/watch?v=RsMhk8Zq4ic) (54:08) if you want!)
+* **Complete** [Inheritance activity](topics/object-oriented-programming/inheritance-activity.md)
+  * **Follow along** with [9.5. Inheritance activity](https://www.youtube.com/watch?v=RsMhk8Zq4ic) (54:08) if you want!
+  * **Check** out [Pippin's Inheritance activity code](https://github.com/pippinbarr/cc/tree/main/1/activities/inheritance-activity) if you like
 
 ---
 
@@ -322,7 +333,9 @@ This is a suggested schedule of topics including:
 
 ## Activity
 
-* **Complete** [Activity: Sound activity](topics/sound/sound-activity.md) (**Follow along** with [10.5. Sound activity](https://www.youtube.com/watch?v=Z9iLUfmB3fY) (42:13) if you want!)
+* **Complete** [Activity: Sound activity](topics/sound/sound-activity.md)
+  * **Follow along** with [10.5. Sound activity](https://www.youtube.com/watch?v=Z9iLUfmB3fY) (42:13) if you want!
+  * **Check** out [Pippin's Sound activity code](https://github.com/pippinbarr/cc/tree/main/1/activities/musical-toy) if you like
 
 
 ---
