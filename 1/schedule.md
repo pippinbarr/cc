@@ -152,7 +152,7 @@ This is a suggested schedule of topics including:
 
 * **Complete** [Activity: Dodging COVID-19](activities/dodging-covid19.md)
   * **Watch** [4.9. Dodging COVID-19](https://www.youtube.com/watch?v=wtjUt5jX3WA) (37:22) video to see Pippin doing it
-  * **Check** out [Pippin's Dodging COVID-19 code](https://github.com/pippinbarr/cc/tree/main/1/activities/draw-an-alien) if you like
+  * **Check** out [Pippin's Dodging COVID-19 code](https://github.com/pippinbarr/cc/tree/main/1/activities/dodging-covid19) if you like
 
 ## Extras
 
