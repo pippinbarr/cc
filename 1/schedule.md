@@ -79,7 +79,9 @@ This is a suggested schedule of topics including:
 
 ## Activity
 
-* **Complete** [Activity: Draw an Alien](activities/draw-an-alien.md) (**watch** [2.6. Draw an alien](https://www.youtube.com/watch?v=gAiJp3pbk_U) (41:13) video to see Pippin doing it)
+* **Complete** [Activity: Draw an Alien](activities/draw-an-alien.md)
+  * **Watch** [2.6. Draw an alien](https://www.youtube.com/watch?v=gAiJp3pbk_U) (41:13) video to see Pippin doing it
+  * **Check** out [Pippin's Draw an alien code](https://www.github.com/pippinbarr/cc/1/activities/draw-an-alien) if you like
 
 ---
 
