@@ -2,6 +2,7 @@
 
 ## Contents
 
+- [p5 Editor Collection](p5-editor-collection)
 - [Games](#games)
 - [Structure](#structure)
 - [Time](#time)
@@ -12,6 +13,10 @@
 - [Final Projects from 2020](#final-projects-from-2020)
 
 ---
+
+## p5 Editor Collection
+
+Take a look at Pippin's [Collections](https://editor.p5js.org/pippinbarr/collections) on p5's editor website. There are numerous short examples of code in categories like *Generative Art*, *Interactions*, and more that might help you get somewhere interesting!
 
 ## Games
 
